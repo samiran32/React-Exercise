@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+}
+
+#p{
+    color:blue;
+    font-size: 40px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold; 
+}
+
+.button{
+    margin: 10px;
+    align-self: center;
+    
+}
+
+.Logo{
+    height: 40px;
+    width:40px;
+}
